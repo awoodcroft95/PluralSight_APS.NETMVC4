@@ -26,9 +26,9 @@ namespace OdeToFood.Migrations
                      City = "Gothenburg",
                      Country = "Sweden",
                      Reviews =
-                     new List<ResturantReview>
+                     new List<RestaurantReview>
                      {
-                         new ResturantReview { Rating = 9, Body = "Great food!", ReviewerName = "Scott" }
+                         new RestaurantReview { Rating = 9, Body = "Great food!", ReviewerName = "Scott" }
                      }
                  });
         }

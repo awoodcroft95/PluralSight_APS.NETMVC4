@@ -51,3 +51,5 @@ C:\Users\Anthony Woodcroft\source\repos\OdeToFood\OdeToFood.Tests\obj\Debug\OdeT
 C:\Users\Anthony Woodcroft\source\repos\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CopyComplete
 C:\Users\Anthony Woodcroft\source\repos\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
 C:\Users\Anthony Woodcroft\source\repos\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
+C:\Users\Anthony Woodcroft\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.dll
+C:\Users\Anthony Woodcroft\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.xml
